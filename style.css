@@ -1,0 +1,15 @@
+.personalizedButton {
+  background-color: #00a0d2;
+  border-color: #00a0d2;
+  color: #fff;
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  line-height: 100px;
+}
